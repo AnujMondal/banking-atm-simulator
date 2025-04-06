@@ -6,7 +6,7 @@
 
 A modern ATM Simulator with a sleek graphical user interface built using Python and Tkinter. This application accurately simulates real-world banking operations with secure authentication and core banking functionalities.
 
-![ATM Simulator Screenshot](screenshots/screenshot.png)
+
 
 ## 🌟 Features
 
