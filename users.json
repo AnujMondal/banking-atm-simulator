@@ -1,0 +1,91 @@
+{
+    "10001234": {
+        "pin": "1234",
+        "balance": 1000.0,
+        "name": "Elle",
+        "transaction_history": []
+    },
+    "20005678": {
+        "pin": "5678",
+        "balance": 2500.0,
+        "name": "Siddharth",
+        "transaction_history": []
+    },
+    "8950154567": {
+        "pin": "1234",
+        "balance": 55000.0,
+        "name": "Charu Thakral",
+        "transaction_history": [
+            "Account created with initial deposit: $50000.00",
+            "Login at 2025-03-29 23:01:48",
+            "Logout at 2025-03-29 23:01:49",
+            "Login at 2025-03-29 23:02:22",
+            "Balance Check at 2025-03-29 23:02:23",
+            "Deposit: $10000.00 at 2025-03-29 23:02:31",
+            "Balance Check at 2025-03-29 23:02:31",
+            "Withdrawal: $5000.00 at 2025-03-29 23:02:38",
+            "Balance Check at 2025-03-29 23:02:38",
+            "PIN Changed at 2025-03-29 23:02:52"
+        ]
+    },
+    "9548022567": {
+        "pin": "1234",
+        "balance": 702004598.0,
+        "name": "Nandini Kapil",
+        "transaction_history": [
+            "Account created with initial deposit: $5100.00",
+            "Login at 2025-03-30 13:32:26",
+            "Balance Check at 2025-03-30 13:32:29",
+            "Deposit: $2000000.00 at 2025-03-30 13:32:44",
+            "Login at 2025-04-04 08:55:49",
+            "Balance Check at 2025-04-04 08:55:49",
+            "Deposit: $700000000.00 at 2025-04-04 08:56:13",
+            "Balance Check at 2025-04-04 08:56:13",
+            "Balance Check at 2025-04-04 08:56:15",
+            "PIN Changed at 2025-04-04 08:56:40",
+            "Login at 2025-04-04 08:57:12",
+            "Balance Check at 2025-04-04 08:57:12",
+            "Withdrawal: $2.00 at 2025-04-04 08:57:20",
+            "Login at 2025-04-04 09:11:14",
+            "Balance Check at 2025-04-04 09:11:14",
+            "Withdrawal: $500.00 at 2025-04-04 09:11:24"
+        ]
+    },
+    "8112994813": {
+        "pin": "2504",
+        "balance": 89030.0,
+        "name": "Anuj Mondal",
+        "transaction_history": [
+            "Account created with initial deposit: $100000.00",
+            "Login at 2025-04-04 07:30:53",
+            "Balance Check at 2025-04-04 07:30:57",
+            "Withdrawal: $4000.00 at 2025-04-04 07:31:07",
+            "Login at 2025-04-04 07:37:02",
+            "Balance Check at 2025-04-04 07:37:02",
+            "Withdrawal: $5000.00 at 2025-04-04 07:37:30",
+            "Login at 2025-04-04 07:49:15",
+            "Balance Check at 2025-04-04 07:49:15",
+            "Deposit: $29.00 at 2025-04-04 07:49:27",
+            "Login at 2025-04-04 07:51:31",
+            "Balance Check at 2025-04-04 07:51:31",
+            "Deposit: $1.00 at 2025-04-04 07:51:35",
+            "Balance Check at 2025-04-04 07:51:35",
+            "Balance Check at 2025-04-04 07:51:36",
+            "Withdrawal: $2000.00 at 2025-04-04 07:51:42"
+        ]
+    },
+    "3456": {
+        "pin": "1234",
+        "balance": 10940.0,
+        "name": "Anuj",
+        "transaction_history": [
+            "Account created with initial deposit: $5000.00",
+            "Login at 2025-04-04 17:22:09",
+            "Balance Check at 2025-04-04 17:22:09",
+            "Deposit: $6000.00 at 2025-04-04 17:22:18",
+            "Balance Check at 2025-04-04 17:22:18",
+            "Balance Check at 2025-04-04 17:22:20",
+            "Withdrawal: $60.00 at 2025-04-04 17:22:25"
+        ]
+    }
+}
