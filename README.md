@@ -28,6 +28,16 @@ A modern ATM Simulator with a sleek graphical user interface built using Python 
 
 - Python 3.x (No external dependencies needed as Tkinter is included in standard Python)
 
+### 👨‍💻 Contributors
+Meet the team behind **ATM-Simulator**:
+
+| Name | GitHub | LinkedIn |
+|------|--------|---------|
+| **Nandini Kapil** | [@GitHub](https://github.com/Nandini0029) | [LinkedIn](https://www.linkedin.com/in/nandini-kapil-3704b3242) |
+| **Anuj Mondal** | [@GitHub](https://github.com/AnujMondal) | [LinkedIn](www.linkedin.com/in/anujmondal) |
+| **Charu Thakral** | [@GitHub](https://github.com/CharuThakral03) | [LinkedIn](https://www.linkedin.com/in/charuthakral) |
+| **Aashutosh Srivastava** | [@GitHub](https://github.com/Aashutosh-Srivastava) | [LinkedIn](https://www.linkedin.com/in/aashutosh-srivastava-7105b4344/) |
+
 ### Installation
 
 1. Clone this repository:
