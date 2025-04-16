@@ -1,5 +1,7 @@
 # Banking ATM Simulator
 
+![Banking ATM Simulator Banner](logo.png)
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
